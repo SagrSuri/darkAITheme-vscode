@@ -1,0 +1,21 @@
+{
+  "name": "darkTheme",
+  "displayName": "Dark and Light Theme",
+  "description": "We are creating costome theme for code writers or programmers. I am think when developer write a code they also feel cool and happiness.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark AI Color",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark AI Color-color-theme.json"
+      }
+    ]
+  }
+}
